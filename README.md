@@ -1,1 +1,1 @@
-# oding-html-exercises
+# odin-html-exercises
